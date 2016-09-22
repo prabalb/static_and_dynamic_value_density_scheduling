@@ -1,0 +1,5 @@
+value-based scheduling heuristics that utilize the tasks’ static/dynamic attributes in order to enhance
+the overall system’s performance under normal operating loads and to reduce performance degradation under
+overload situations.
+
+Reference: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.25.9543&rep=rep1&type=pdf
