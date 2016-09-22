@@ -1,5 +1,5 @@
 /* Dynamic Value Density (DVD) Scheduling Algorithm
- * AUTHOR: PRABAL BASU (A02049867)
+ * Author: PRABAL BASU (A02049867)
  */
 
 #include <iostream>

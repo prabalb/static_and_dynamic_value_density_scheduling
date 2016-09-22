@@ -1,3 +1,8 @@
+/* Dynamic Value Density (DVD) Scheduling Algorithm
+ * Author: PRABAL BASU (A02049867)
+ */
+
+
 #include "scheduler.h"
 #include <fstream>
 #include <cstring>
